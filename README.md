@@ -1,6 +1,6 @@
 ![DevOps](https://github.com/ronak-pal1/ronak-pal1/assets/98758085/18cc5146-fa10-4ec9-8640-b15ba34c6bf5)
 
-<br><br>
+<br>
 
 ## 🌐 Socials
 

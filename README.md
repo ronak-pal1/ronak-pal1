@@ -47,9 +47,7 @@ Just stared with Contribution to the Open Source.<br/>
 
 <br><br>
 
-## Blogs  ![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)
-This are the blogs in my hashnode account. <br/>
-🔷 [Touch Typing](https://codago.hashnode.dev/touch-typing-learn-to-type-faster) <br/>
-🔷 [Docker](https://codago.hashnode.dev/docker) <br/>
-🔷 [Problem Solving](https://codago.hashnode.dev/problem-solving-think-apply-and-build) <br/>
+### My Latest Blog Posts 👇
+<!-- HASHNODE_BLOG:START -->
+<!-- HASHNODE_BLOG:END -->
 

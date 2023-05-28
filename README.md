@@ -68,7 +68,7 @@ Introduc... </p> <br/> <br/>
 <p align="left">
 <a href="https://codago.hashnode.dev//docker" title="Docker"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1676617750213/22462193-11f6-4bef-8366-f2233ac5afd4.png" alt="Docker" width="250px" align="left" /></a>
 <a href="https://codago.hashnode.dev//docker" title="Docker"><strong>Docker</strong></a>
-<div><strong>20 Feb 2023</strong></div>
+<div><strong>20 Feb 2023</strong> | <strong>Updated: 27 May 2023</strong></div>
 <br/> Hey 🖐, this is the blog on the basics of Docker. In this blog, you will learn about various topics about docker like docker container, docker image, docker hub and many more. So if you want to learn about containerization then this blog is for you. ... </p> <br/> <br/>
 <!-- HASHNODE_BLOG:END -->
 

@@ -52,6 +52,11 @@ Just stared with Contribution to the Open Source.<br/>
 ### My Latest Blog Posts 👇
 <!-- HASHNODE_BLOG:START -->
 <p align="left">
+<a href="https://codago.hashnode.dev//git-and-github-introduction" title="Git and GitHub: Introduction"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1694360667590/aede9d14-2270-4614-8cbf-4bd407557228.png" alt="Git and GitHub: Introduction" width="250px" align="left" /></a>
+<a href="https://codago.hashnode.dev//git-and-github-introduction" title="Git and GitHub: Introduction"><strong>Git and GitHub: Introduction</strong></a>
+<div><strong>10 Sept 2023</strong></div>
+<br/> In the world of software development, collaboration is key. Teams of developers work together to create amazing applications, websites, and programs. But how do they keep track of all the changes, updates, and improvements they make to their projects... </p> <br/> <br/>
+<p align="left">
 <a href="https://codago.hashnode.dev//unleashing-the-power-of-web-30" title="Unleashing the Power of Web 3.0"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1684507578341/87801d2d-d7c8-4d42-b474-fd01a09f62a4.png" alt="Unleashing the Power of Web 3.0" width="250px" align="left" /></a>
 <a href="https://codago.hashnode.dev//unleashing-the-power-of-web-30" title="Unleashing the Power of Web 3.0"><strong>Unleashing the Power of Web 3.0</strong></a>
 <div><strong>19 May 2023</strong></div>
@@ -65,10 +70,5 @@ The internet has evolved significantly since its inception, transforming the way
 <br/> Hey🖐, this blog is about Problem Solving in programming and it will help you to solve a problem easily. This blog will cover certain things you should follow while solving a problem, so read the blog and start solving your problems easily.
 
 Introduc... </p> <br/> <br/>
-<p align="left">
-<a href="https://codago.hashnode.dev//docker" title="Docker"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1676617750213/22462193-11f6-4bef-8366-f2233ac5afd4.png" alt="Docker" width="250px" align="left" /></a>
-<a href="https://codago.hashnode.dev//docker" title="Docker"><strong>Docker</strong></a>
-<div><strong>20 Feb 2023</strong> | <strong>Updated: 27 May 2023</strong></div>
-<br/> Hey 🖐, this is the blog on the basics of Docker. In this blog, you will learn about various topics about docker like docker container, docker image, docker hub and many more. So if you want to learn about containerization then this blog is for you. ... </p> <br/> <br/>
 <!-- HASHNODE_BLOG:END -->
 

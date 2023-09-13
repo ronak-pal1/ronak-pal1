@@ -52,6 +52,11 @@ Just stared with Contribution to the Open Source.<br/>
 ### My Latest Blog Posts 👇
 <!-- HASHNODE_BLOG:START -->
 <p align="left">
+<a href="https://codago.hashnode.dev//enhancing-git-security" title="Enhancing Git Security"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1694529321275/3753634d-1f1b-4c90-ad83-683129bc31ac.png" alt="Enhancing Git Security" width="250px" align="left" /></a>
+<a href="https://codago.hashnode.dev//enhancing-git-security" title="Enhancing Git Security"><strong>Enhancing Git Security</strong></a>
+<div><strong>12 Sept 2023</strong> | <strong>Updated: 12 Sept 2023</strong></div>
+<br/> In the world of software development, the Git version control system has become the bedrock of collaboration, enabling teams to work seamlessly on codebases of all sizes. But as we rely on Git to manage our source code, ensuring the security and inte... </p> <br/> <br/>
+<p align="left">
 <a href="https://codago.hashnode.dev//git-and-github-introduction" title="Git and GitHub: Introduction"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1694360667590/aede9d14-2270-4614-8cbf-4bd407557228.png" alt="Git and GitHub: Introduction" width="250px" align="left" /></a>
 <a href="https://codago.hashnode.dev//git-and-github-introduction" title="Git and GitHub: Introduction"><strong>Git and GitHub: Introduction</strong></a>
 <div><strong>10 Sept 2023</strong></div>
@@ -63,12 +68,5 @@ Just stared with Contribution to the Open Source.<br/>
 <br/> Hey 🖐, this is the blog on Web 3.0. In this blog, I will explain what is Web 3.0, decentralization, dApps and many more. So let's start reading the blog.
 Introduction
 The internet has evolved significantly since its inception, transforming the way w... </p> <br/> <br/>
-<p align="left">
-<a href="https://codago.hashnode.dev//problem-solving-think-apply-and-build" title="Problem Solving: Think, Apply and Build"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1676917888245/7f9d3a98-cc71-4c6e-9918-3dba71f49471.png" alt="Problem Solving: Think, Apply and Build" width="250px" align="left" /></a>
-<a href="https://codago.hashnode.dev//problem-solving-think-apply-and-build" title="Problem Solving: Think, Apply and Build"><strong>Problem Solving: Think, Apply and Build</strong></a>
-<div><strong>21 Feb 2023</strong></div>
-<br/> Hey🖐, this blog is about Problem Solving in programming and it will help you to solve a problem easily. This blog will cover certain things you should follow while solving a problem, so read the blog and start solving your problems easily.
-
-Introduc... </p> <br/> <br/>
 <!-- HASHNODE_BLOG:END -->
 

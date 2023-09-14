@@ -52,6 +52,11 @@ Just stared with Contribution to the Open Source.<br/>
 ### My Latest Blog Posts 👇
 <!-- HASHNODE_BLOG:START -->
 <p align="left">
+<a href="https://codago.hashnode.dev//mastering-git-commands" title="Mastering Git Commands"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1694600867603/e029f1c7-cb39-407e-8d99-1660a9f7ea9b.png" alt="Mastering Git Commands" width="250px" align="left" /></a>
+<a href="https://codago.hashnode.dev//mastering-git-commands" title="Mastering Git Commands"><strong>Mastering Git Commands</strong></a>
+<div><strong>13 Sept 2023</strong></div>
+<br/> In the fast-paced world of software development, version control is the backbone of collaborative coding. It keeps chaos at bay, enables seamless teamwork, and provides the safety net needed to explore and experiment with code. At the heart of versio... </p> <br/> <br/>
+<p align="left">
 <a href="https://codago.hashnode.dev//enhancing-git-security" title="Enhancing Git Security"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1694529321275/3753634d-1f1b-4c90-ad83-683129bc31ac.png" alt="Enhancing Git Security" width="250px" align="left" /></a>
 <a href="https://codago.hashnode.dev//enhancing-git-security" title="Enhancing Git Security"><strong>Enhancing Git Security</strong></a>
 <div><strong>12 Sept 2023</strong> | <strong>Updated: 12 Sept 2023</strong></div>
@@ -61,12 +66,5 @@ Just stared with Contribution to the Open Source.<br/>
 <a href="https://codago.hashnode.dev//git-and-github-introduction" title="Git and GitHub: Introduction"><strong>Git and GitHub: Introduction</strong></a>
 <div><strong>10 Sept 2023</strong></div>
 <br/> In the world of software development, collaboration is key. Teams of developers work together to create amazing applications, websites, and programs. But how do they keep track of all the changes, updates, and improvements they make to their projects... </p> <br/> <br/>
-<p align="left">
-<a href="https://codago.hashnode.dev//unleashing-the-power-of-web-30" title="Unleashing the Power of Web 3.0"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1684507578341/87801d2d-d7c8-4d42-b474-fd01a09f62a4.png" alt="Unleashing the Power of Web 3.0" width="250px" align="left" /></a>
-<a href="https://codago.hashnode.dev//unleashing-the-power-of-web-30" title="Unleashing the Power of Web 3.0"><strong>Unleashing the Power of Web 3.0</strong></a>
-<div><strong>19 May 2023</strong></div>
-<br/> Hey 🖐, this is the blog on Web 3.0. In this blog, I will explain what is Web 3.0, decentralization, dApps and many more. So let's start reading the blog.
-Introduction
-The internet has evolved significantly since its inception, transforming the way w... </p> <br/> <br/>
 <!-- HASHNODE_BLOG:END -->
 

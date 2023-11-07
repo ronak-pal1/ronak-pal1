@@ -52,6 +52,11 @@ Just stared with Contribution to the Open Source.<br/>
 ### My Latest Blog Posts 👇
 <!-- HASHNODE_BLOG:START -->
 <p align="left">
+<a href="https://codago.hashnode.dev//my-aws-adventure-the-aws-community-day-jaipur-experience" title="My AWS Adventure: The AWS Community Day, Jaipur Experience"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1699213122264/c7035f00-ae93-4f9c-b0af-a1f5313de51c.jpeg" alt="My AWS Adventure: The AWS Community Day, Jaipur Experience" width="250px" align="left" /></a>
+<a href="https://codago.hashnode.dev//my-aws-adventure-the-aws-community-day-jaipur-experience" title="My AWS Adventure: The AWS Community Day, Jaipur Experience"><strong>My AWS Adventure: The AWS Community Day, Jaipur Experience</strong></a>
+<div><strong>6 Nov 2023</strong></div>
+<br/> Hey 👋, In this blog I am going to talk about my experiences at the AWS Community Day Jaipur event, what are the things I learned from the event and also the networking part. Btw I am also going to talk about the foods and swags in the event so stay ... </p> <br/> <br/>
+<p align="left">
 <a href="https://codago.hashnode.dev//understanding-the-fundamental-divide-libraries-vs-frameworks" title="Understanding the Fundamental Divide: Libraries vs. Frameworks"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1698386368876/7831b820-d168-40ae-9619-c4bcd7dee730.jpeg" alt="Understanding the Fundamental Divide: Libraries vs. Frameworks" width="250px" align="left" /></a>
 <a href="https://codago.hashnode.dev//understanding-the-fundamental-divide-libraries-vs-frameworks" title="Understanding the Fundamental Divide: Libraries vs. Frameworks"><strong>Understanding the Fundamental Divide: Libraries vs. Frameworks</strong></a>
 <div><strong>27 Oct 2023</strong></div>
@@ -61,10 +66,5 @@ Just stared with Contribution to the Open Source.<br/>
 <a href="https://codago.hashnode.dev//mastering-git-commands" title="Mastering Git Commands"><strong>Mastering Git Commands</strong></a>
 <div><strong>13 Sept 2023</strong></div>
 <br/> In the fast-paced world of software development, version control is the backbone of collaborative coding. It keeps chaos at bay, enables seamless teamwork, and provides the safety net needed to explore and experiment with code. At the heart of versio... </p> <br/> <br/>
-<p align="left">
-<a href="https://codago.hashnode.dev//enhancing-git-security" title="Enhancing Git Security"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1694529321275/3753634d-1f1b-4c90-ad83-683129bc31ac.png" alt="Enhancing Git Security" width="250px" align="left" /></a>
-<a href="https://codago.hashnode.dev//enhancing-git-security" title="Enhancing Git Security"><strong>Enhancing Git Security</strong></a>
-<div><strong>12 Sept 2023</strong> | <strong>Updated: 12 Sept 2023</strong></div>
-<br/> In the world of software development, the Git version control system has become the bedrock of collaboration, enabling teams to work seamlessly on codebases of all sizes. But as we rely on Git to manage our source code, ensuring the security and inte... </p> <br/> <br/>
 <!-- HASHNODE_BLOG:END -->
 

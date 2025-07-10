@@ -5,9 +5,9 @@
 ## 🌐 Socials
 
 <a href="https://twitter.com/ronak_pal1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="twitter link" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/ronak-paul-2975b01b6/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin link" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/ronak-pal1/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin link" height="30" width="40" /></a>
 <a href="https://instagram.com/ronak_pal1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram link" height="30" width="40" /></a>
-<a href="https://hashnode.com/@ronakpal1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="hashnode link" height="30" width="40" /></a>
+<a href="https://blog.ronakpaul.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="hashnode link" height="30" width="40" /></a>
 <a href="https://www.youtube.com/@CodaGo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="youtube channel link" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/ronak_pal1/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="leetcode link" height="30" width="40" /></a>
 

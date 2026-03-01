@@ -16,7 +16,7 @@
 
 > *What happens when you peel back the abstraction?*
 
-That question lives rent-free in my head. I'm **Ronak Pal**, a developer who can't stop pulling threads.
+That question lives rent free in my head. I'm **Ronak Paul**, a developer who can't stop pulling threads.
 
 Most people use the tool. I want to know *why* the tool works. I write code, break things intentionally, understand why they broke, then build something better. I move across the stack; frontend polish, backend plumbing, cloud infra, databases, DevOps; wherever the interesting problem lives.
 
